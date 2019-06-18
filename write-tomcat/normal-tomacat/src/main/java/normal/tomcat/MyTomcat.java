@@ -53,8 +53,10 @@ public class MyTomcat {
                 MyRequest request = new MyRequest(accept);
                 MyResponse response = new MyResponse(accept);
                 if (servletMap.containsKey(request.getPath())) {
-                    System.out.println("request method:"+request.getMethod()+"  request path :"+request.getPath());
-                    servletMap.get(request.getPath()).service(request,response);
+                    System.out.println("request method:" + request.getMethod() + "  request path :" + request.getPath());
+                    servletMap.get(request.getPath()).service(request, response);
+                } else {
+                    response.write("404 Not Found");
                 }
             }
         } catch (IOException e) {
