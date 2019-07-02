@@ -7,14 +7,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="api" />
+        <module name="client" />
         <module name="netty-tomcat" />
         <module name="normal-tomacat" />
+        <module name="protocol" />
+        <module name="provider" />
+        <module name="registy" />
         <module name="socket-client" />
         <module name="socket-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="demo" target="1.8" />
       <module name="rpc-server" target="1.5" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+    </option>
   </component>
 </project>
