@@ -16,6 +16,8 @@
         <module name="registy" />
         <module name="socket-client" />
         <module name="socket-server" />
+        <module name="use-api" />
+        <module name="write-netty-chart" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
