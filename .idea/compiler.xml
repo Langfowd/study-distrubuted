@@ -17,12 +17,12 @@
         <module name="socket-client" />
         <module name="socket-server" />
         <module name="use-api" />
-        <module name="write-netty-chart" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="demo" target="1.8" />
       <module name="rpc-server" target="1.5" />
+      <module name="write-netty-chart" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

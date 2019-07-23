@@ -31,6 +31,7 @@
       <set>
         <option value="$PROJECT_DIR$/study-nio/rpc-client/pom.xml" />
         <option value="$PROJECT_DIR$/study-nio/rpc-server/pom.xml" />
+        <option value="$PROJECT_DIR$/write-netty-chart/pom.xml" />
       </set>
     </option>
   </component>

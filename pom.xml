@@ -12,7 +12,6 @@
         <module>study-nio</module>
         <module>write-tomcat</module>
         <module>write-rpc</module>
-        <module>write-netty-chart</module>
         <module>zookeeper-api</module>
     </modules>
 
