@@ -9,10 +9,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="api" />
         <module name="client" />
+        <module name="dubbo-client" />
         <module name="netty-tomcat" />
         <module name="normal-tomacat" />
         <module name="protocol" />
         <module name="provider" />
+        <module name="provider-api" />
+        <module name="provider-impl" />
         <module name="registy" />
         <module name="socket-client" />
         <module name="socket-server" />

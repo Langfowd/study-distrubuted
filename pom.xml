@@ -13,6 +13,7 @@
         <module>write-tomcat</module>
         <module>write-rpc</module>
         <module>zookeeper-api</module>
+        <module>dubbo</module>
     </modules>
 
 
