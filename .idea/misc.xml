@@ -12,7 +12,6 @@
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/dubbo/dubbo-xml/pom.xml" />
         <option value="$PROJECT_DIR$/study-nio/rpc-client/pom.xml" />
         <option value="$PROJECT_DIR$/study-nio/rpc-server/pom.xml" />
         <option value="$PROJECT_DIR$/write-netty-chart/pom.xml" />
