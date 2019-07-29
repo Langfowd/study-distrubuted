@@ -9,11 +9,17 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>dubbo-annotation</artifactId>
+    <artifactId>dubbo-annation</artifactId>
+    <packaging>pom</packaging>
 
-    <name>dubbo-annotation</name>
+    <name>dubbo-annation</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
+    <modules>
+        <module>dubbo-annation-provider</module>
+        <module>dubbo-annation-client</module>
+        <module>dubbo-annation-provider-api</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

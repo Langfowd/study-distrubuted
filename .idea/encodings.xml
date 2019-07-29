@@ -2,6 +2,11 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo/dubbo-annation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo/dubbo-annation/dubbo-annation-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo/dubbo-annation/dubbo-annation-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo/dubbo-annation/dubbo-annation-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo/dubbo-annation/dubbo-annation-provider-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubbo-xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubbo-xml/dubbo-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubbo-xml/dubbo-client" charset="UTF-8" />
