@@ -24,6 +24,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="demo" target="1.8" />
+      <module name="dubbo-xml" target="1.7" />
       <module name="rpc-server" target="1.5" />
       <module name="write-netty-chart" target="1.5" />
     </bytecodeTargetLevel>
@@ -31,6 +32,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo" options="-parameters" />
+      <module name="dubbo-client" options="-parameters" />
     </option>
   </component>
 </project>

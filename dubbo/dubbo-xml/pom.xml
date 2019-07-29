@@ -18,7 +18,6 @@
     <modules>
         <module>provider-api</module>
         <module>provider-impl</module>
-        <module>dubbo-client</module>
     </modules>
 
     <properties>
