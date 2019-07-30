@@ -4,14 +4,15 @@
     <file url="file://$PROJECT_DIR$/dubbo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubbo-annation" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubbo-annation/dubbo-annation-client" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/dubbo/dubbo-annation/dubbo-annation-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubbo-annation/dubbo-annation-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubbo-annation/dubbo-annation-provider-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubbo-xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubbo-xml/dubbo-client" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/dubbo/dubbo-xml/dubbo-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubbo-xml/provider-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubbo-xml/provider-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo/spi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo/spi/spi-jdk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo/spi/spi-jdk-mysql" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zookeeper-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zookeeper-api/use-api" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />

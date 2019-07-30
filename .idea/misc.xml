@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/dubbo/dubbo-xml/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo/dubbo-xml/dubbo-client/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo/dubbo-annation/dubbo-annation-client/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo/spi/spi-jdk/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo/spi/spi-jdk-mysql/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

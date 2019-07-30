@@ -3,22 +3,21 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>distributed-all</artifactId>
+        <artifactId>dubbo</artifactId>
         <groupId>study.distributed</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>dubbo</artifactId>
+    <artifactId>spi</artifactId>
     <packaging>pom</packaging>
 
-    <name>dubbo</name>
+    <name>spi</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
     <modules>
-        <module>dubbo-xml</module>
-        <module>dubbo-annation</module>
-        <module>spi</module>
+        <module>spi-jdk</module>
+        <module>spi-jdk-mysql</module>
     </modules>
 
     <properties>

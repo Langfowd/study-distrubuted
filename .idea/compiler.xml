@@ -22,6 +22,8 @@
         <module name="registy" />
         <module name="socket-client" />
         <module name="socket-server" />
+        <module name="spi-jdk" />
+        <module name="spi-jdk-mysql" />
         <module name="use-api" />
       </profile>
     </annotationProcessing>
