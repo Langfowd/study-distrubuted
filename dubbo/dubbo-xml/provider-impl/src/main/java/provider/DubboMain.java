@@ -6,7 +6,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * dubbo 容器启动
+ * META-INF 容器启动
  * 实际也是封装了spring容器的启动，会自动加载 META-INF/spring/*.xml文件
  */
 public class DubboMain {

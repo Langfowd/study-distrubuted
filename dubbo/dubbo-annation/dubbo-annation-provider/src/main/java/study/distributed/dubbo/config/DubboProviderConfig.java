@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 
 @Configuration
-@EnableDubbo(scanBasePackages = "study.distributed.dubbo")
+@EnableDubbo(scanBasePackages = "study.distributed.META-INF")
 @PropertySource("classpath:/provider.properties")
 public class DubboProviderConfig {
 }

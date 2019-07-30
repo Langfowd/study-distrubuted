@@ -36,7 +36,7 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
-        <!-- dubbo -->
+        <!-- META-INF -->
         <dependency>
             <groupId>org.apache.dubbo</groupId>
             <artifactId>dubbo</artifactId>
