@@ -10,10 +10,14 @@
         <option value="$PROJECT_DIR$/dubbo/dubbo-annation/dubbo-annation-client/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo/spi/spi-jdk/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo/spi/spi-jdk-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/mq-parent/kafka/kafka-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/mq-parent/kafka/kafka-producer/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/mq-parent/kafka/kafka-cosumer/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-parent/pom.xml" />
         <option value="$PROJECT_DIR$/study-nio/rpc-client/pom.xml" />
         <option value="$PROJECT_DIR$/study-nio/rpc-server/pom.xml" />
         <option value="$PROJECT_DIR$/write-netty-chart/pom.xml" />

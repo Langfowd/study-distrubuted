@@ -13,6 +13,8 @@
         <module name="dubbo-annation-provider" />
         <module name="dubbo-annation-provider-api" />
         <module name="dubbo-client" />
+        <module name="kafka-consumer" />
+        <module name="kafka-producer" />
         <module name="netty-tomcat" />
         <module name="normal-tomacat" />
         <module name="protocol" />
@@ -30,7 +32,10 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="demo" target="1.8" />
+      <module name="kafka-consumer (1)" target="1.8" />
+      <module name="kafka-cosumer" target="1.7" />
       <module name="rpc-server" target="1.5" />
+      <module name="seata-parent" target="1.5" />
       <module name="write-netty-chart" target="1.5" />
     </bytecodeTargetLevel>
   </component>
@@ -39,6 +44,9 @@
       <module name="demo" options="-parameters" />
       <module name="dubbo-annation-client" options="-parameters" />
       <module name="dubbo-client" options="-parameters" />
+      <module name="kafka-consumer" options="" />
+      <module name="kafka-consumer (1)" options="-parameters" />
+      <module name="kafka-producer" options="" />
     </option>
   </component>
 </project>
